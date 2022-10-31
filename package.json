@@ -10,7 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "coveo.analytics": "^2.22.0",
+    "coveo.analytics": "^2.22.1",
     "react": "18.1.0",
     "react-native": "0.70.4"
   },
